@@ -1,4 +1,4 @@
-### 안녕하세요. 끈기있는 Backend 개발자 입니다.👋
+### 안녕하세요. Backend 주니어 개발자 입니다!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yes-31&show_icons=true&theme=radical)
 
